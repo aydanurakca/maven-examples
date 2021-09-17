@@ -22,5 +22,4 @@ public class FizzBuzzTest {
         assertThat(fizzBuzz.getFizzBuzzWord(3), is("Fizz"));
     }
 
-
 }
