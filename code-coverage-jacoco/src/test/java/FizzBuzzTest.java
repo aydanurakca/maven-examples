@@ -37,4 +37,5 @@ public class FizzBuzzTest {
         assertNull(fizzBuzz.getFizzBuzzWord(4));
     }
 
+
 }
